@@ -152,6 +152,7 @@ public class MainActivity extends AppCompatActivity {
                 Red r = new Red();
                 ColorTextView.setText(r.showColor());
             }
+            //hfhdgdgdgddgtdd
             else if(color.equals("Green")){
                 Green g = new Green();
                 ColorTextView.setText(g.showColor());
